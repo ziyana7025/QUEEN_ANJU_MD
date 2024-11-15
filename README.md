@@ -52,7 +52,7 @@ And Subscribe GAMING RASH and give one star for queen anju.
 
    2..DEPLOY ON GITHUB
 
-***<p align="center"> • [`Tap here for Github deploy tutorial`](https://youtu.be/NUali0Qym44?si=tlO24axYN_w2swyn) </p>***
+***<p align="center"> • [`Tap here for Github deploy tutorial`](https://youtu.be/NHxe-ynZmGI) </p>***
 
    3..DEPLOY ON KOYEB
 
